@@ -10,4 +10,4 @@
 ## actual fonts
 ### [opendyslexic](font/ttf/opendyslexic3-regular.ttf) ([bold](font/ttf/opendyslexic3-bold.ttf))[🌐](http://opendyslexic.org/)
 ### [dyslexie](font/woff/Dyslexie/Dyslexie-Regular.woff) ([bold](font/woff/Dyslexie/Dyslexie-Bold.woff))[🌐](http://https://www.dyslexiefont.com/en/typeface/)
-FONT TYPES<!-- ### [NATO](font/woff/NATO/NATO1-regular.ttf) -->
+<!-- ### [NATO](font/woff/NATO/NATO1-regular.ttf) -->
